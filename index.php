@@ -1,7 +1,7 @@
 <?php
 
 $Webhook    = "https://discord.com/api/webhooks/"; //Webhook here
-$WebhookTag = "Ip Logger"; //Name this whatever you want
+$WebhookTag = "Captain Hook"; //Name this whatever you want
 $WebhookAvatar = "https://vgy.me/GQe9bJ.png"; //Change this to your the avatar you prefer
 $DEmbedColor = "FFFFFF"; //Change the color of the Discord Embed must be in hex "FFFFFF"
 
